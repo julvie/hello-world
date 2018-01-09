@@ -1,0 +1,8 @@
+title: User Experience Here
+description: Improving life a little a day...
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
