@@ -2,7 +2,7 @@ title: User Experience Here
 description: Improving life a little a day...
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-tactile
+theme: jekyll-theme-leap-day
 
 gems:
   - jekyll-mentions
